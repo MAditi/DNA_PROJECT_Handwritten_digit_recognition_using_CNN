@@ -1,7 +1,7 @@
 # DNA_PROJECT_Handwritten_digit_recognition_using_CNN
 Handwritten Digit Recognition Using CNN
 
-Group:01
+Group: 01
 
 2310030060_Aditi
 
