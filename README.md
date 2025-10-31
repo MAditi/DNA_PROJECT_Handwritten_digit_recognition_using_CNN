@@ -1,6 +1,12 @@
 # DNA_PROJECT_Handwritten_digit_recognition_using_CNN
 Handwritten Digit Recognition Using CNN
 
+Group:01
+2310030060_Aditi
+2310030053_Nikhil
+2310030081_Rithvik
+2310030082_Akshitha
+
 Introduction: This project focuses on using Convolutional Neural Networks (CNNs) to automatically recognize handwritten digits from images. By training on datasets like MNIST and EMNIST, the system can classify digits (0–9) with high accuracy, supporting applications in digitized forms, automated postal systems, banking (cheque processing), and educational tools.
 
 Keywords: Deep Learning, CNN, Handwritten Digit Recognition, Image Classification, MNIST, EMNIST
